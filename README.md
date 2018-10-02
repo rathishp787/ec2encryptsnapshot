@@ -1,4 +1,4 @@
-# EC2Cryptomatic
+# EC2EnCrypt
 
 Encrypt EBS volumes from AWS EC2 instances
 
